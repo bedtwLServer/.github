@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-### A minecraft server in taiwan
+### bedtwL Server is a minecraft server in taiwan
